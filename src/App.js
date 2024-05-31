@@ -116,7 +116,7 @@ const App = () => {
               left:0,
               width:0,
               height:0
-
+       
             }}
             id='video'
             playsInline
